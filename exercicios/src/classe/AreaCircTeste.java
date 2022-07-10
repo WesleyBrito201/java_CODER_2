@@ -11,6 +11,7 @@ public class AreaCircTeste {
 			AreaCirc a2 = new AreaCirc(5);
 			
 			System.out.println(a2.area());
+			System.out.println("Olá¡ mundo!");
 				
 			
 	}

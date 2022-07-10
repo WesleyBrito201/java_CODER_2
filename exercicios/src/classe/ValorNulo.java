@@ -16,7 +16,7 @@ public class ValorNulo {
 		String s2 = Math.random() > 0.5 ? "Opa" : null;
 		if (s2 != null) {
 			System.out.println(s2.concat("??????"));
-		
+
 		}
 
 	}
