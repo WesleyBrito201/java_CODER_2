@@ -10,7 +10,7 @@ public class Data {
 		//dia = 1;
 		//mes = 1;
 		//ano = 1970;
-		//this(dia, mes, ano);
+		this(1, 1, 1970);
 		
 		
 
